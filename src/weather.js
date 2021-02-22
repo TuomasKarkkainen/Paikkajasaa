@@ -8,7 +8,7 @@ import React, {useState, useEffect} from 'react';
 const API_URL = 'https://api.openweathermap.org/data/2.5/weather?';
 const ICON_URL = 'http://openweathermap.org/img/wn/';
 
-/*Your API KEY -> Toimii avaimen kanssa. */  const API_KEY = '236a540bf6a0cd68836eec12ec9c23a7';
+/*Your API KEY -> Toimii avaimen kanssa. */  const API_KEY = '';
 
 
 
